@@ -1,4 +1,4 @@
-# Work0x
+# isAWwork
 
 ---
 
@@ -22,6 +22,6 @@ What are you looking for in this work account?
 <img src="assets/kyubey.gif" height="40" />
 <br><br><br>
     
-[![](https://img.shields.io/badge/website-0a66c2)](https://wasivii.me)
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/35706188)
+[![](https://img.shields.io/badge/website-0a66c2)](https://isawwork.me)
+[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/1000000)
 </div>
